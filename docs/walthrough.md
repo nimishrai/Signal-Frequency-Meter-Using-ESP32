@@ -33,7 +33,3 @@ ledcWriteTone(OUTPUT_PIN, frequency);
 ```
 The ESP32 uses its internal **LEDC** peripheral to generate a square wave on GPIO 26 that matches the measured frequency. This is useful for "daisy-chaining" signals or verifying the measurement with another device.
 
-## 💡 Pro-Tips for your Resume
-- Mention **Hardware Interrupts**: This shows you understand real-time processing.
-- Mention **I2C Protocol**: This shows you can work with standard industrial communication buses.
-- Mention **Signal Processing**: You are converting an analog-style physical signal into digital data.
